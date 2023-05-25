@@ -93,6 +93,9 @@
 валідаційному датасеті, метриках mAP, Precision, Recall у якості фінальної моделі обрано
 YOLOv8I.
 
+## Результат
+![result.gif](screenshots%2Fresult.gif)
+
 
 ## Як протестувати додаток
 ### Docker
